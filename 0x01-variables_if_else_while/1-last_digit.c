@@ -5,7 +5,6 @@
 /**
  * main - prints random number and states whether its
  * last digit is greater than 5, or less than 6 and not 0.
- * 
  * Return: 0
  */
 int main(void)
