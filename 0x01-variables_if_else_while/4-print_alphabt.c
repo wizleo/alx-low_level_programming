@@ -2,7 +2,7 @@
 /**
  * main - entry point
  *
- * Description: prints the lower case alphabet excluding e and q
+ * Description: Prints the lower case alphabet excluding e and q
  * Return: 0
  */
 int main(void)
