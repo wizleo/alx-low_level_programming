@@ -5,7 +5,7 @@
  *   *
  *    *@n: The int to print
  *     * Return: Always 0.
- *      */
+ */
 
 int print_last_digit(int n)
 
