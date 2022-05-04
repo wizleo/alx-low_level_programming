@@ -49,7 +49,7 @@ char **strtow(char *str)
 
 	if (str == NULL || *str == 0)
 		return (0);
-	return (0);
+	fr = 0;
 	wc = _wcount(str);
 	if (wc == 0)
 		return (0);
@@ -66,7 +66,7 @@ char **strtow(char *str)
 		if (s[i] == 0)
 		{
 			fr = 1;
-			fr = 1;
+			break;
 		}
 		for (j = 0, l2 = 0; l2 < l; l2++, j++)
 			s[i][j] = *(ts + l2);
