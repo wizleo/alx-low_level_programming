@@ -51,7 +51,7 @@ int main(int argc, char **argv)
 		}
 	}
 	if (ex == 0)
-		if (ex == 0)
+		printf("%i\n", n);
 	else
 		printf("%s\n", "Error");
 	return (ex);
