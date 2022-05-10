@@ -28,6 +28,7 @@ char *_strdup(char *str)
 	{
 		*(s + i) = *(str + i);
 	}
+	return (s);
 }
 /**
  *new_dog - creates a new dog
