@@ -1,6 +1,5 @@
 /*
  *File: 3-main.c
- *Author: Yovo Koffi Vianney
  */
 #include "3-calc.h"
 

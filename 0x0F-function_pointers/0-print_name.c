@@ -1,6 +1,5 @@
 /*
  *File: 0-print_name.c
- *Author: Yovo Koffi Vianney
  */
 
 #include "function_pointers.h"
