@@ -1,5 +1,6 @@
-/*
- *  * File: 3-print_all.c
+/*i
+ *File: 3-print_all.c
+ *Author: Nkajja Leo
  */
 
 #include "variadic_functions.h"
