@@ -1,4 +1,4 @@
-/*i
+/*
  *File: 3-print_all.c
  *Author: Nkajja Leo
  */
