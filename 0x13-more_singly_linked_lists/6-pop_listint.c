@@ -11,7 +11,11 @@ int pop_listint(listint_t **head)
 {
 	listint_t *tp;
 
+<<<<<<< HEAD
 	int my_data
+=======
+	int my_data;
+>>>>>>> a94975332d4878328c41e88c10e4074bb40d2fa5
 
 	if (*head == NULL)
 		return (0);
